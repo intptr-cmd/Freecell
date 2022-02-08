@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\MainWindow.baml
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\MainWindow.g.cs
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\App.g.cs
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\FreeCellMetrics_MarkupCompile.cache
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\FreeCellMetrics.g.resources
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\FreeCellMetrics.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\FreeCellMetrics.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\bin\Debug\FreeCellMetrics.exe
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\bin\Debug\FreeCellMetrics.pdb
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\FreeCellMetrics.exe
+c:\users\pc\documents\visual studio 2010\Projects\FreeCellMetrics\FreeCellMetrics\obj\x86\Debug\FreeCellMetrics.pdb
